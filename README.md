@@ -1,5 +1,5 @@
 # hola-mundo
 
-Mi primer repositorio 🖥️:
+Mi primer repositorio 🖥️
 
 Actividad de la clase N°:10 📘
